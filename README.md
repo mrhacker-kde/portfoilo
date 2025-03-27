@@ -1,6 +1,6 @@
 # portfoilo
 
-#Main colors
+# Main colors
 cadetblue
 #2b3d5b
 white
