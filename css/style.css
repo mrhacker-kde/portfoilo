@@ -10,17 +10,31 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
-
+.log{
+    background-color: aquamarine;
+    position: absolute;
+    width: 50%;
+}
+.log input{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 50%;
+    height: 30px;
+    left: 25%;
+}
 img{
     position: absolute;
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 2rem;
+    height: 2rem;
+    left: 20rem;
 }
 
-img .eye{
+.eye{
     display: block;
 }
 
-img .hide{
+.hide{
     display: none;
 }
